@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<?xml-stylesheet href="squad.xsl" type="text/xsl"?>
+
+<squad nick="NOSF">
+	<name>Nosferatu Nightstalkers</name>
+	<email>email@example.com</email>
+	<web>www.example.com</web>
+	<picture>nosf.paa</picture>
+	<title>Nightstalkers</title>
+	
+<member id="76561198127567335" nick="=[NOSF]= MistahKurtz">
+		<name>John Doe</name>
+		<nowiki><email>john.doe@example.com</email>
+		<icq>N/A</icq>
+		<remark>Mostly harmless</remark>
+</member>
+</squad><!-- closing squad -->
